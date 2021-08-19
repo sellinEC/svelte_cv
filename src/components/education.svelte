@@ -22,7 +22,7 @@
   </div>
   <div class="expandable">
     {#if showeducation}
-      <div data-aos="fade-down">
+      <div>
         <Detailed
           kurs={'Agila projektmetoder'}
           points={10}
