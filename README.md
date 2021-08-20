@@ -1,2 +1,2 @@
 CV build in Svelte with SvelteKit.
-The framework looks cool
+The framework looks cool!
